@@ -1,2 +1,2 @@
-# Ignore all ./a.out files
-./a.out
+# Ignore all executable files
+*.out
